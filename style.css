@@ -2,30 +2,36 @@
 * {
 box-sizing: border-box;
 }
+
 body {
 margin: 0;
 font-family: Arial, sans-serif;
 color: #ff1aaf;
 }
+
 header {
 background-color: #65edff;
 color: rgb(255, 33, 196);
 padding: 20px;
 text-align: center;
 }
+
 header nav a {
 color: rgb(234, 79, 255);
 margin: 0 10px;
 text-decoration: none;
 }
+
 section {
 padding: 40px 20px;
 }
+
 #projects {
 display: flex;
 gap: 20px;
 flex-wrap: wrap;
 }
+
 .card {
 background-color: #33ffff;
 border: 1px solid #ff72ec;
@@ -34,6 +40,7 @@ padding: 20px;
 flex: 1;
 min-width: 200px;
 }
+
 footer {
 background-color: #ff0fbb;
 color: white;
