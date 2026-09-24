@@ -5,16 +5,16 @@ box-sizing: border-box;
 body {
 margin: 0;
 font-family: Arial, sans-serif;
-color: #ff82d3;
+color: #ff1aaf;
 }
 header {
 background-color: #65edff;
-color: rgb(234, 95, 197);
+color: rgb(255, 33, 196);
 padding: 20px;
 text-align: center;
 }
 header nav a {
-color: white;
+color: rgb(234, 79, 255);
 margin: 0 10px;
 text-decoration: none;
 }
@@ -27,15 +27,15 @@ gap: 20px;
 flex-wrap: wrap;
 }
 .card {
-background-color: #f4f9f9;
-border: 1px solid #72f3ff;
+background-color: #33ffff;
+border: 1px solid #ff72ec;
 border-radius: 8px;
 padding: 20px;
 flex: 1;
 min-width: 200px;
 }
 footer {
-background-color: #013a40;
+background-color: #ff0fbb;
 color: white;
 text-align: center;
 padding: 15px;
